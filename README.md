@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tryoxiss (she/they please~) 
 - 👀 I’m interested in: Game design. 
-- 🌱 I’m currently learning: The absolute basics. 
-- 💞️ I’m looking to collaborate on: Honestly not sure, I can barely code and I just wanted to see what git is all about. 
+- 🌱 I’m currently learning: Hah! You thought I knew how to do anything!
+- 💞️ I’m looking to collaborate on: Uhhh.... 
 - 📫 How to reach me: tryoxiss@gmail.com
 
 <!---
