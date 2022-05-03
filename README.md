@@ -1,3 +1,5 @@
+Heyo! i'm a game dev and designer! 
+
 - 👋 Hi, I’m @tryoxiss (she/they please~) 
 - 👀 I’m interested in: Game design. 
 - 🌱 I’m currently learning: Hah! You thought I knew how to do anything!
