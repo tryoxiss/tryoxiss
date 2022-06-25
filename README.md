@@ -3,6 +3,8 @@ Heowo! I make and break things on the internet. I am a game designer and am curr
 
 This is msotly just where I store source code for my stuff!
 
+Profile piture: I lost the pcirew link, if someone has it please email me and i'll add it. 
+
 <!---
 tryoxiss/tryoxiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
