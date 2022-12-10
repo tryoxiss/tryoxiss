@@ -6,6 +6,8 @@ Heowo! I make and break things on the internet. I am a game designer and am curr
 
 This is msotly just where I store source code for my stuff!
 
+(I have like 50 github pages repos from various web testing that I haven't bothered to delete... )
+
 Profile piture: I lost the pcirew link, if someone has it please email me and i'll add it. 
 
 <!---
