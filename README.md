@@ -1,7 +1,7 @@
 # Hi, i'm tryo!
 Heowo! I make and break things on the internet. I am a game designer and am currently in the early stages of learning to make games with my girlfriend! Idk what to write here... 
 
-"I **NEVER** commit code without a review" 
+"I **NEVER** commit code without a review"
     - me probably
 
 This is msotly just where I store source code for my stuff!
