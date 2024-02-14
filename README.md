@@ -1,5 +1,5 @@
 # Hi, i'm tryo!
-Heowo! I make and break things on the internet. I am a game designer and am currently in the early stages of learning to make games with my girlfriend! Idk what to write here... 
+Heowo! I make and break things on the internet. I am a game designer and am currently working on a game about silly kittens! Idk what to write here... 
 
 "I **NEVER** commit code without a review"
     - me probably
